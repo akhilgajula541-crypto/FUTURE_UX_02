@@ -29,13 +29,11 @@ This project is a mobile app UI for **Vikram Performance**, a fitness training b
 ## 🖼 Screenshots
 > *(Add exported screenshots of Login, Choose Program, Pick Date & Time, and Booking Confirmed screens here)*
 
-![Login](./login.jpg)
+[![Login](./login.jpg)
 ![Choose Program](./choose-program.jpg)
 ![Date & Time](./date-time.jpg)
-![Booking Confirmed](./booking-confirmed.jpg)
+![Booking Confirmed](./booking-confirmed.jpg)](https://www.figma.com/design/nP5sLBTdu3XobyIcMPi0EG/My-Home?node-id=1786-112&t=VYcQW3iZbpjxMmH3-1)
 
-## 🔗 Figma File
-[View Prototype on Figma](https://figma.com/your-link-here)
 
 ---
 *Part of the Future Interns UI/UX Design Internship — Task 2*
