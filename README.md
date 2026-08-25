@@ -34,6 +34,7 @@ This project is a mobile app UI for **Vikram Performance**, a fitness training b
 ![Date & Time](./date-time.jpg)
 ![Booking Confirmed](./booking-confirmed.jpg)](https://www.figma.com/design/nP5sLBTdu3XobyIcMPi0EG/My-Home?node-id=1786-112&t=VYcQW3iZbpjxMmH3-1)
 
-
+## 🔗 Figma File
+[[https://figma.com/your-link-here]](https://www.figma.com/design/nP5sLBTdu3XobyIcMPi0EG/My-Home?node-id=1786-112&t=VYcQW3iZbpjxMmH3-1)
 ---
 *Part of the Future Interns UI/UX Design Internship — Task 2*
